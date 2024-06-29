@@ -1,3 +1,6 @@
+<h1 align=center>THIS REPOSITORY HAS BEEN ARCHIVED. SEE <a href="https://github.com/AllStarLink/ASL3">ALLSTARLINK V3</a></h1>
+
+
 # Asterisk Source for AllStarLink
 
 This is the Asterisk source package for AllStarLink and the files to build the ASL 2.0.0+ distribution.
